@@ -1,62 +1,49 @@
-# Basic HTML Portfolio
+# roadmap.sh Projects
 
-A simple portfolio website built using only HTML as part of the roadmap.sh Basic HTML Website project.
+A collection of projects built while following the roadmap.sh learning paths.
 
-## 📌 Project Overview
+This repository serves as a central portfolio for all completed projects. Each project is organized by category and linked to its dedicated source code repository and live demo.
 
-This project demonstrates the use of semantic HTML to create a clean and structured portfolio website without any CSS or JavaScript.
-
-## ✨ Features
-
-* Semantic HTML structure
-* Projects section
-* Work Experience section
-* Education section
-* Testimonials section
-* Footer
-
-## 🛠️ Technologies Used
-
-* HTML5
-
-## 📂 Project Structure
+## Repository Structure
 
 ```text
-.
-├── index.html
+roadmap.sh-projects/
 ├── README.md
-└── .vscode/
+├── assets/
+├── Frontend projects/
+└── Backend projects/
 ```
 
-## 🎯 Learning Objectives
+## Frontend Projects
 
-* Practice HTML fundamentals
-* Understand semantic tags
-* Build structured web pages
-* Prepare for CSS and JavaScript integration
+| #  | Project            | Source Code                                                       | Live Demo     | Status      |
+| -- | ------------------ | ----------------------------------------------------------------- | ------------- | ----------- |
+| 01 | Basic HTML Website | [Repository](https://github.com/pushpkant-666/basic-html-website) | Add link here | ✅ Completed |
 
-## 📸 Preview
+## Backend Projects
 
-The website includes:
+No backend projects added yet.
 
-* Introduction Section
-* Projects Showcase
-* Work Experience
-* Education Details
-* Testimonials
+## Upcoming Projects
 
-## 📚 Project Source
+Add new projects here as you complete them.
 
-This project is based on the roadmap.sh Frontend Project:
+### How to Update This Repository
 
-https://roadmap.sh/projects/basic-html-website
+When a project is completed:
 
-## 👨‍💻 Author
+1. Create a dedicated GitHub repository for the project.
+2. Add the project folder to the appropriate category.
+3. Add a screenshot or SVG preview to the `assets` folder.
+4. Update the project table with:
 
-Pushpkant Patel
+   * Project name
+   * Repository link
+   * Live demo link
+   * Completion status
 
-GitHub: https://github.com/pushpkant-666
+## About roadmap.sh
 
----
+roadmap.sh provides community-driven roadmaps, projects, and resources for developers.
 
-⭐ If you found this project useful, consider giving it a star.
+Website: https://roadmap.sh
